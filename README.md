@@ -1,1 +1,1 @@
-# Data_Science
+# Academic Projects
