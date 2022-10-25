@@ -1,1 +1,1 @@
-# Academic Projects
+# My Projects
